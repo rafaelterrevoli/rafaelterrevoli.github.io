@@ -1,0 +1,31 @@
+/* Para una clase se usa . y pa id se usa # */
+.skill3{
+    color: rgb(255, 13, 0);
+  }
+
+.borde1{
+    border: 2px solid rgb(119, 167, 14); 
+    padding: 50px;
+    margin: 10px; 
+}
+ 
+.caja1{
+  border: 2px solid rgb(119, 167, 14); 
+  padding: 50px;
+  margin: 10px; 
+  background-color: greenyellow;
+}
+
+.caja2{
+  border: 2px solid rgb(119, 167, 14); 
+  padding: 50px;
+  margin: 10px; 
+  background-color: rgb(20, 110, 108);
+}
+
+.caja3{
+  border: 2px solid rgb(119, 167, 14); 
+  padding: 50px;
+  margin: 10px; 
+  background-color: burlywood;
+}
